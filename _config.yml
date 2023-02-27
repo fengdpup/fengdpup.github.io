@@ -80,23 +80,23 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Daipeng Feng"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "Guang Zhou"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : "Master in cse SYSU"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "fengdp3@mail2.sysu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "fengdpup"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,9 +109,9 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "fengdpup"
   vine             :
-  weibo            :
+  weibo            : 
   xing             :
   youtube          :
   wikipedia        :
