@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Daipeng Feng"
-  avatar           : "profile.png"
+  avatar           : "ron_eating_harry_potter.png"
   bio              : "M.Eng. in Sun Yat-sen University"
   location         : "Guang Zhou"
   employer         :
@@ -184,9 +184,9 @@ collections:
   # portfolio:
   #   output: true
   #   permalink: /:collection/:path/
-  # talks:
-  #   output: true
-  #   permalink: /:collection/:path/
+  talks:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
