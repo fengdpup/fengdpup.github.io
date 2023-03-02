@@ -18,7 +18,7 @@ Work experience
 ======
 * Summer 2015: Part-time College Counselor
   * Sun Yat-sen University
-  * Duties included: Handle psychological issues and function as the bridge of students and teachers.
+  * Duties included: Handle psychological issues of graduates.
   * Supervisor: Professors
 
   
@@ -47,3 +47,8 @@ Teaching
 Service and leadership
 ======
 * TBD
+
+
+Miscellaneous
+======
+* Running
