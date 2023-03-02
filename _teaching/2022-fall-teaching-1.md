@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "TA on Reinforcement Learning and Game Theory"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2022-fall-teaching-1
