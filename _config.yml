@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "DP Feng"
+title                    : "Daipeng Feng"
 title_separator          : "-"
 name                     : &name "Daipeng Feng"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Daipeng Feng"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "M.Eng. in Sun Yat-sen University"
   location         : "Guang Zhou"
   employer         :
   pubmed           : "Master in cse SYSU"
